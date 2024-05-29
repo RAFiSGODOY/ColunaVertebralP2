@@ -1,0 +1,16 @@
+{
+	"name": "Ossos do Corpo Humano",
+	"short_name": "Ossos do Corpo Humano",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "404x352",
+			"type": "image/png"
+		}
+	]
+}
